@@ -10,5 +10,5 @@ https://arbabkhanocloud.github.io/VE-Login-Screen/
 
 # Ve Login Screen Image Description
 
-Image widht:1920px
-hieght: 1080px
+Image width:1920px
+height: 1080px
